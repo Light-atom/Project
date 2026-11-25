@@ -1,0 +1,18 @@
+body { 
+    
+}
+
+nav { 
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+nav a { 
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px ;
+}
